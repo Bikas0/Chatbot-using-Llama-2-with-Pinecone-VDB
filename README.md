@@ -1,5 +1,5 @@
 # Chatbot-using-Llama-2-with-Pinecone-VDB
-This <h1>Model</h1> is developed <h1>30<sup>th</sup> January 2024</h1>
+This <b>Model</b> is developed <b>30<sup>th</sup> January 2024</b>
 ```bash
 python -m venv venv
 # After 14 Hours of pain, Finaly solve the error............!!!
