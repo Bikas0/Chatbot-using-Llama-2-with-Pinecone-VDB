@@ -1,5 +1,5 @@
 # Chatbot-using-Llama-2-with-Pinecone-VDB
-
+30 January 2024
 ```bash
 python -m venv venv
 # After 14 Hours of pain, Finaly solve the error............!!!
