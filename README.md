@@ -2,7 +2,7 @@
 
 ```bash
 python -m venv venv
-# After 14 Hours of pain, finally solve the error
+# After 14 Hours of pain, Finaly solve the error
 ```
 
 ```bash
