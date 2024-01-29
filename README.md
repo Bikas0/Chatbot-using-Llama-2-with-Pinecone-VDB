@@ -11,6 +11,10 @@ cd Scripts
 activate
 ```
 ```bash
+Embedding Models
+"sentence-transformers/all-MiniLM-L6-v2"
+```
+```bash
 Large Language Model
-llama-2-7b-chat.ggmlv3.q4_0.bin
+"llama-2-7b-chat.ggmlv3.q4_0.bin"
 ```
