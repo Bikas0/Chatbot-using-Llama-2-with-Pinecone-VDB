@@ -56,5 +56,6 @@ def chat():
     print("Response : ", result["result"])
     return str(result["result"])
 
+
 if __name__ == "__main__":
     app.run(debug=True)
