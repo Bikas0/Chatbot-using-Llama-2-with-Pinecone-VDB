@@ -25,6 +25,6 @@ Large Language Model
 ```
 
 ```bash
-Write code in setup.py so that you install your local library
+# Write code in setup.py so that you install your local library
 e .  # this line used in requirements file for installing setup.py
 ```
