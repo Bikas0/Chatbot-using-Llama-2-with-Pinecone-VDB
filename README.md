@@ -10,12 +10,16 @@ cd venv
 cd Scripts
 activate
 ```
+```ini
+pip install -r requirements.txt
+```
+
 ```bash
 Embedding Models
 "sentence-transformers/all-MiniLM-L6-v2"
 ```
 
-```bash
+```ini
 Large Language Model
 "llama-2-7b-chat.ggmlv3.q4_0.bin"
 ```
