@@ -23,3 +23,8 @@ Embedding Models
 Large Language Model
 "llama-2-7b-chat.ggmlv3.q4_0.bin"
 ```
+
+```bash
+Write code in setup.py so that you install your local library
+e .  # this line used in requirements file for installing setup.py
+```
